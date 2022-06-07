@@ -1,4 +1,4 @@
-package com.harshithakv.tastyrecipesapp
+package com.harshithakv.tastyrecipesapp.util
 
 class Constants {
     companion object {

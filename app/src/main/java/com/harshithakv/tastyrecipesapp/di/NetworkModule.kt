@@ -1,7 +1,7 @@
-package com.harshithakv.tastyrecipesapp.network
+package com.harshithakv.tastyrecipesapp.di
 
-import com.harshithakv.tastyrecipesapp.Constants
-import com.harshithakv.tastyrecipesapp.FoodRecipeApi
+import com.harshithakv.tastyrecipesapp.util.Constants
+import com.harshithakv.tastyrecipesapp.datasource.network.FoodRecipeApi
 import dagger.Module
 import dagger.Provides
 import okhttp3.OkHttpClient
